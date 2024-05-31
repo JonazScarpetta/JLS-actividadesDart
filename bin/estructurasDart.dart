@@ -1,4 +1,4 @@
-/*import 'dart:io';
+import 'dart:io';
 
 void main() {
   print("Ingrese un número:");
@@ -10,7 +10,7 @@ void main() {
 
   print("la suma es es $sum ");
 }
-*/
+
 
 /*
 
